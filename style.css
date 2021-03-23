@@ -1,0 +1,33 @@
+body {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: left;
+  color: #fff;
+  font-family: "Lobster Two", cursive;
+  font-size: 50px;
+}
+
+h1 i {
+  color: lightgoldenrodyellow;
+  font-size: 32px;
+}
+
+.row {
+  text-align: center;
+  font-family: "Cookie", cursive;
+  font-size: 30px;
+  color: #fff;
+  padding: top;
+}
+
+ul {
+  text-align: left;
+  list-style-type: none;
+}
+
+html {
+  min-height: 100%;
+}
